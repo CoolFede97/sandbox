@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Sandbox.dir/link.d CMakeFiles/Sandbox.dir/sandbox.cpp.o -o Sandbox  /usr/lib/liblua5.4.so -lm

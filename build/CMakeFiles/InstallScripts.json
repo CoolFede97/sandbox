@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/coolfede97/coding/sandbox/build/cmake_install.cmake",
-		"/home/coolfede97/coding/sandbox/build/_deps/sol2-build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/coolfede97/coding/sandbox/build",
-  "command": "/usr/bin/c++  -I/usr/include/lua5.4 -isystem /home/coolfede97/coding/sandbox/build/_deps/sol2-src/include -std=gnu++20 -Wno-error=array-bounds -o CMakeFiles/Sandbox.dir/sandbox.cpp.o -c /home/coolfede97/coding/sandbox/sandbox.cpp",
-  "file": "/home/coolfede97/coding/sandbox/sandbox.cpp",
-  "output": "CMakeFiles/Sandbox.dir/sandbox.cpp.o"
-}
-]
